@@ -17,8 +17,8 @@ Installations steps below.
 4.Menu options explained
 ---------------
 
-File:
-* Choose Prompt: choose a predefined GPT-3 prompt
+* File:
+- Choose Prompt: choose a predefined GPT-3 prompt
 
 Edit:
 -API: config API key

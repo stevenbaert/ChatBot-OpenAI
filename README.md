@@ -13,3 +13,26 @@ Installations steps below.
 3.Test by asking any question(s), check logs for details
 --------------
 ![003 AskAnyQuestion](https://user-images.githubusercontent.com/43472567/173581583-21cc58da-a4fe-47ce-a3d6-46152788af37.png)
+
+4.Menu options explained
+---------------
+
+File:
+-Choose Prompt: choose a predefined GPT-3 prompt
+
+Edit:
+-API: config API key
+-Config: configure temperature, max tokens etc
+-Prompt: modify existing prompt
+
+Logs: 
+-Open logfiles
+
+Settings:
+-Toggle StarAtBoot: makes the chatbot start at boot
+
+Help:
+-Configfiles: jump straight to config files
+-Examples: go to https://beta.openai.com/examples/ to get deeper into the rabbit hole
+-JsonObject.Prompt: print out JsonObject prompt
+-Manual: open PDF manual

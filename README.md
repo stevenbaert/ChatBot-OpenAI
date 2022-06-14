@@ -18,7 +18,7 @@ Installations steps below.
 ---------------
 
 * File:
-  -Choose Prompt: choose a predefined GPT-3 prompt
+  - Choose Prompt: choose a predefined GPT-3 prompt
 
 Edit:
 -API: config API key
